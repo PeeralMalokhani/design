@@ -1,0 +1,107 @@
+Body{
+    text-decoration: none;
+    outline: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+
+}
+
+.container{
+    font-size: 13px;
+    color: white;
+    position:absolute;
+    left:40px;
+    bottom:0;
+    right:0;
+    top:50px;
+    width: 200px;
+    /* margin:40 0 50 0; */
+}
+
+a{
+     /* color: white; */
+    font-weight: 600;
+    outline: none;
+    
+    
+}
+.circle{
+    padding: 7px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+p{
+    height: 5px;
+}
+.heading{
+    font-size: 16px;
+}
+.rows{
+    position: absolute;
+    left: 43px;
+    top: -25px;
+        
+}
+.container1{
+    font-size: 13px;
+    color: white;
+    position:absolute;
+    left:40px;
+    bottom:0;
+    right:0;
+    top:112px;
+    width: 200px;
+    /* margin:40 0 50 0; */
+}
+.container2{
+    font-size: 13px;
+    color: white;
+    position:absolute;
+    left:40px;
+    bottom:0;
+    right:0;
+    top:175px;
+    width: 200px;
+    /* margin:40 0 50 0; */
+}
+.container3{
+    font-size: 13px;
+    color: white;
+    position:absolute;
+    left:40px;
+    bottom:0;
+    right:0;
+    top:240px;
+    width: 200px;
+    /* margin:40 0 50 0; */
+}
+.personal{
+    position: absolute;
+    top: 25px;
+    left: 353px;
+    background-color: white;
+    color: black;
+}
+.form input{
+    width: 430px;
+    height: 40px;
+    border-radius: 10px;
+    line-height: 40px;
+}
+.form{
+    margin-top: 25px;
+}
+.btn{
+    width: 155px;
+    height: 55px;
+    position: absolute;
+    bottom: -190px;
+    right: -10px;
+    background-color: rgb(89, 89, 246);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 24px;
+    transition: all 0.3s ease;
+}
